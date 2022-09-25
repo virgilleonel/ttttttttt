@@ -7,7 +7,5 @@ import { Component, } from '@angular/core';
   inputs:['ValueChild']
 })
 export class ParentComponent {
-   variableParent:string='je viens du parent'
-
-
+   variableParent:string='je viens du parent';
 }
